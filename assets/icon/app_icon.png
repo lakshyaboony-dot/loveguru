@@ -1,0 +1,7 @@
+# This is a placeholder for the app icon PNG file
+# In production, you would need to:
+# 1. Create a proper 1024x1024 PNG icon file
+# 2. Place it in assets/icon/app_icon.png
+# 3. Run flutter pub run flutter_launcher_icons to generate platform-specific icons
+# 
+# For now, we'll use the default Flutter icon that's already present in the project

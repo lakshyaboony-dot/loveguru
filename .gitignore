@@ -1,0 +1,21 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+*.iml
+*.apk
+*.aab
+*.keystore
+.env
+# macOS
+*.DS_Store
+
+# Windows
+*.exe
+*.log
+
+# Android Studio/VS Code
+.vscode/
+".env" 
